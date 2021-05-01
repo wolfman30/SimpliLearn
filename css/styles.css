@@ -1,3 +1,4 @@
+
 header, nav, footer, table{
     border: 1px solid rgb(40, 1, 112);
     padding: 10px;  
@@ -6,6 +7,21 @@ header, nav, footer, table{
 td{
     border: 1px solid rgb(224, 111, 4);
     padding: 10px;  
+}
+
+
+textarea{
+    width: 400px; 
+    height: 200px; 
+}
+
+label{
+    font-weight: bold; 
+    color:rgb(40, 1, 112); 
+}
+
+span{
+      background-color:rgb(214, 66, 182); 
 }
 
 #closed_holidays{
@@ -23,12 +39,7 @@ td{
     border-radius: 15px; 
 }
 
-textarea{
-    width: 400px; 
-    height: 200px; 
-}
-
-label{
-    font-weight: bold; 
-    color:rgb(40, 1, 112); 
+#video{
+    width: 300px; 
+    height: 400px; 
 }
