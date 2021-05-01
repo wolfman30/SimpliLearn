@@ -1,0 +1,15 @@
+table{
+    border: 1px solid rgb(40, 1, 112);
+    padding: 10px;  
+}
+
+td{
+    border: 1px solid rgb(224, 111, 4);
+    padding: 10px;  
+}
+
+#closed_holidays{
+    background:rgb(40, 1, 112); 
+    color: white; 
+    text-align: center; 
+}
