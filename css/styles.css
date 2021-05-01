@@ -1,4 +1,4 @@
-table{
+header, nav, footer, table{
     border: 1px solid rgb(40, 1, 112);
     padding: 10px;  
 }
@@ -12,4 +12,23 @@ td{
     background:rgb(40, 1, 112); 
     color: white; 
     text-align: center; 
+}
+
+#submit {
+    background:rgb(40, 1, 112); 
+    font-weight: bold; 
+    font-size: 15px; 
+    color:rgb(250, 158, 71); 
+    padding: 10px; 
+    border-radius: 15px; 
+}
+
+textarea{
+    width: 400px; 
+    height: 200px; 
+}
+
+label{
+    font-weight: bold; 
+    color:rgb(40, 1, 112); 
 }
